@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 ## Prérequis
-**Need Python 3.13**
+**Python 3.13**
 
 ---
 
@@ -32,5 +32,6 @@ git clone https://github.com/Hckr56/clearDm-tool.git
  ```
 
 2. lunch setup.bat
+
 
 
