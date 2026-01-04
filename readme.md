@@ -1,11 +1,11 @@
 # LRXTerminal
 
-![LRXTerminal Logo](https://via.placeholder.com/400x100.png?text=LRXTerminal+Logo)
+
 
 [![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=white)](https://www.python.org/) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
-## Prérequis
+## ✨ Prérequis
 **Python 3.13**
 
 ---
@@ -32,6 +32,7 @@ git clone https://github.com/Hckr56/clearDm-tool.git
  ```
 
 2. lunch setup.bat
+
 
 
 
