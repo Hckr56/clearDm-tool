@@ -5,20 +5,15 @@
 [![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=white)](https://www.python.org/) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
-LRXTerminal est un **terminal interactif stylé** pour Discord qui permet de :  
-- Afficher un **logo ASCII avec dégradé de couleurs**  
-- Afficher des **sparkles** animés  
-- Se connecter à un compte Discord via **token**  
-- **Afficher et supprimer vos DMs** facilement  
+## Prérequis
+**Need Python 3.13**
 
 ---
 
 ## ⚡ Fonctionnalités
 
-- Dégradé de texte RGB pour le logo et les messages  
-- Interface centrée et esthétique  
-- Gestion des messages Discord avec respect des rate limits  
-- Options pour supprimer tous les DMs ou un DM spécifique  
+- **Clear tes dm et nk les exs toxic qui veulent ficha**
+
 
 ---
 
@@ -33,5 +28,8 @@ LRXTerminal est un **terminal interactif stylé** pour Discord qui permet de :
 1. Cloner le projet :  
 
 ```bash
-git clone https://github.com/Hckr56/LRXTerminal.git 
-cd LRXTerminal
+git clone https://github.com/Hckr56/clearDm-tool.git
+ ```
+
+lunch setup.bat
+
