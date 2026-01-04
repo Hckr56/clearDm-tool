@@ -31,5 +31,6 @@
 git clone https://github.com/Hckr56/clearDm-tool.git
  ```
 
-lunch setup.bat
+2. lunch setup.bat
+
 
